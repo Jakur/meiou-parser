@@ -1,0 +1,12 @@
+[package]
+name = "save_parser"
+version = "0.1.0"
+authors = ["Justin Kur"]
+
+[dependencies]
+lazy_static = "0.2"
+float-cmp = "0.2"
+serde = "1.0.10"
+serde_derive = "1.0.10"
+serde_json = "1.0"
+memmap = "0.5.2"
